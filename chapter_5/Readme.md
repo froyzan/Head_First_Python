@@ -1,4 +1,4 @@
-Запуск приложения:
+Run:
 	python3 vsearch4web.py
 	
 URL:
