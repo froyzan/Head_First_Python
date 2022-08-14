@@ -1,1 +1,2 @@
-# Head_First_Python
+Book - Head First Python
+Author - Paul Barry
