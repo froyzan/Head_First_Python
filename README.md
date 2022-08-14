@@ -3,4 +3,4 @@ Author - Paul Barry
 
 Пол Бэрри: «Изучаем программирование на Python»
 
-![](https://github.com/froyzan/Head_First_Python/blob/main/02.jpg)
+![](https://github.com/froyzan/Head_First_Python/blob/main/screenshot.jpg)
